@@ -24,7 +24,7 @@ This project contains a Convolutional Neural Network (CNN) model that predicts a
 
 1. `git clone` https://github.com/munibakar/Age-And-Gender-Detection-From-Face.git
 
-2. `cd gender-age-prediction` 
+2. `cd Age-And-Gender-Detection-From-Face` 
 
 
 
